@@ -8,4 +8,5 @@ Our project was in collaboration with an International Food Chain (IFC) to use g
 For more information about our project, below are some links.
 
 Project Wiki Page: https://wiki.smu.edu.sg/1920t1smt201/G2-Group01
+
 Project Poster Link: https://ibb.co/Zg238Wx
