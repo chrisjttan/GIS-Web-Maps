@@ -1,4 +1,4 @@
-# taoyuan-geospatial.github.io
+# chrisjttan.github.io
 For AY2019/20 Term 1 SMT201 Geospatial Analytics for Urban Planning Module
 
 Hello! 
