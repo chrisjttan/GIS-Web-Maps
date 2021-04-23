@@ -10,3 +10,7 @@ For more information about our project, below are some links.
 Project Wiki Page: https://wiki.smu.edu.sg/1920t1smt201/G2-Group01
 
 Project Poster Link: https://ibb.co/Zg238Wx
+
+Buffer Analysis Web Map: https://chrisjttan.github.io/buffer%20webmap/
+
+Network Analysis Web Map: https://chrisjttan.github.io/network%20webmap/
